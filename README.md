@@ -34,7 +34,7 @@ Ferramentas e tecnologias que tenho explorado e com as quais estou ganhando expe
 
 * **Frameworks/Bibliotecas:** Spring Boot, React, .NET
 
-* **Conceitos Chave:** APIs REST, Programação Orientada a Objetos (POO), DevOps, Cloud (AWS), SQL
+* **Conceitos Chave:** APIs REST, Programação Orientada a Objetos (POO)
 
 * **Ferramentas:** VS Code, Visual Studio, NPM, Maven, Docker, Postman (para testar APIs), Git
 
@@ -56,7 +56,7 @@ Formações práticas que estou cursando ou finalizei:
 
 * **Ensino Superior - Tecnólogo em Análise e Desenvolvimento de Sistemas** (Senac) - Cursando.
 
-* **Desenvolvimento em JavaScript e React** (Senai) - Concluído | Especialização em Front-end.
+* **Desenvolvimento em JavaScript e React** (Senai) - Concluído | Focado em Front-end.
 
 * **Santander Coders / Web Full Stack** (Ada Tech - Santander) - Concluído | Destaque em Java/Spring e conceitos Full Stack.
 
