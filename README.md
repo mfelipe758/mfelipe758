@@ -34,7 +34,7 @@ Ferramentas e tecnologias que tenho explorado e com as quais estou ganhando expe
 
 * **Frameworks/Bibliotecas:** Spring Boot, React, .NET
 
-* **Conceitos Chave:** APIs REST, Programação Orientada a Objetos (POO)
+* **Conceitos:** APIs REST, Programação Orientada a Objetos (POO)
 
 * **Ferramentas:** VS Code, Visual Studio, NPM, Maven, Docker, Postman (para testar APIs), Git
 
