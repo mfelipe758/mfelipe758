@@ -2,7 +2,7 @@
 
 
 
-### Desenvolvedor em Formação | Foco em Backend com JavaScript e Java
+### Desenvolvedor em Formação | Foco em Backend
 
 
 
