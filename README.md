@@ -14,7 +14,7 @@
 
 
 
-Depois de alguns anos na área de vendas, fiz uma transição de carreira e, atualmente, dedico meu tempo para me aprofundar na área tech. Hoje, meus estudos e projetos pessoais são mais voltados para JavaScript e Java, com preferência por vagas de Backend, mas tenho interesse em aprender e explorar outras linguagens e tecnologias.
+Depois de alguns anos na área de vendas, fiz uma transição de carreira e, atualmente, dedico meu tempo para me aprofundar na área tech. Hoje, meus estudos e projetos pessoais são mais voltados para Java e JavaScript, com preferência por vagas de Backend, mas tenho interesse em aprender e explorar outras linguagens e tecnologias.
 
 
 
