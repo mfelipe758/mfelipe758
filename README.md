@@ -44,26 +44,6 @@ Ferramentas e tecnologias que tenho explorado e com as quais estou ganhando expe
 
 
 
-### Minha Jornada de Aprendizado
-
-
-
-Formações práticas que estou cursando ou finalizei:
-
-
-
-* **WEX - End to End Engineering** (Dio - Wex) - Cursando | Foco em Backend, .NET, C#, Docker, AWS.
-
-* **Ensino Superior - Tecnólogo em Análise e Desenvolvimento de Sistemas** (Senac) - Cursando.
-
-* **Desenvolvimento em JavaScript e React** (Senai) - Concluído | Focado em Front-end.
-
-* **Santander Coders / Web Full Stack** (Ada Tech - Santander) - Concluído | Destaque em Java/Spring e conceitos Full Stack.
-
-
----
-
-
 Bora trocar uma ideia!
 
 
