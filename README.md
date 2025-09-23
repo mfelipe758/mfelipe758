@@ -30,7 +30,7 @@ Ferramentas e tecnologias que tenho explorado e com as quais estou ganhando expe
 
 
 
-* **Linguagens:** JavaScript, Java, C#, HTML5, CSS3
+* **Linguagens:** JavaScript, Java, C#
 
 * **Frameworks/Bibliotecas:** Spring Boot, React, .NET
 
