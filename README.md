@@ -14,7 +14,7 @@
 
 
 
-Depois de alguns anos na área de vendas, fiz uma transição de carreira e, atualmente, dedico meu tempo para me aprofundar na área tech. Hoje, meus projetos são mais voltados para PHP, Java e JavaScript, com preferência pelo Backend, mas tenho interesse em aprender e explorar outras linguagens e tecnologias.
+Depois de alguns anos na área de vendas, fiz uma transição de carreira e, atualmente, dedico meu tempo para me aprofundar na área tech. Hoje, meus projetos são mais voltados para PHP, Java e JavaScript, com preferência pelo Backend.
 
 
 
