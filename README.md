@@ -2,7 +2,7 @@
 
 
 
-### Desenvolvedor em Formação | Foco em Backend
+### Desenvolvedor Backend
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-Depois de alguns anos na área de vendas, fiz uma transição de carreira e, atualmente, dedico meu tempo para me aprofundar na área tech. Hoje, meus estudos e projetos pessoais são mais voltados para Java e JavaScript, com preferência por vagas de Backend, mas tenho interesse em aprender e explorar outras linguagens e tecnologias.
+Depois de alguns anos na área de vendas, fiz uma transição de carreira e, atualmente, dedico meu tempo para me aprofundar na área tech. Hoje, meus projetos são mais voltados para PHP, Java e JavaScript, com preferência pelo Backend, mas tenho interesse em aprender e explorar outras linguagens e tecnologias.
 
 
 
@@ -30,13 +30,13 @@ Ferramentas e tecnologias que tenho explorado e com as quais estou ganhando expe
 
 
 
-* **Linguagens:** JavaScript, Java, C#
+* **Linguagens:** PHP, JavaScript, Java, C#
 
 * **Frameworks/Bibliotecas:** Spring Boot, React, .NET
 
 * **Conceitos:** APIs REST, Programação Orientada a Objetos (POO)
 
-* **Ferramentas:** VS Code, Visual Studio, NPM, Maven, Docker, Postman (para testar APIs), Git
+* **Ferramentas:** PhpStorm, VS Code, Visual Studio, NPM, Maven, Docker, Postman, Git, Docker
 
 
 
