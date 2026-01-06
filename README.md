@@ -1,16 +1,39 @@
-## Hi there 👋
+# E aí! Sou o Felipe Menezes 👋
 
-<!--
-**mfelipe758/mfelipe758** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Desenvolvedor Backend
+
+
+
+---
+
+
+
+### Sobre
+
+
+
+Depois de alguns anos na área de vendas, fiz uma transição de carreira e, atualmente, dedico meu tempo para me aprofundar na área tech.
+
+
+
+---
+
+
+
+### Habilidades
+
+
+
+Ferramentas e tecnologias que tenho explorado e com as quais estou ganhando experiência:
+
+
+
+* **Linguagens:** PHP, JavaScript, Java
+
+* **Frameworks/Bibliotecas:** Spring Boot, React
+
+* **Conceitos:** APIs REST, Programação Orientada a Objetos (POO)
+
+* **Ferramentas:** PhpStorm, VS Code, Visual Studio, NPM, Maven, Docker, Postman, Git, Docker
