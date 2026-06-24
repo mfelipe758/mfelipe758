@@ -32,8 +32,8 @@ Ferramentas e tecnologias que tenho explorado e com as quais estou ganhando expe
 
 * **Linguagens:** PHP, JavaScript, Java
 
-* **Frameworks/Bibliotecas:** Spring Boot, React
+* **Frameworks/Bibliotecas:** Spring, Symfony
 
 * **Conceitos:** APIs REST, Programação Orientada a Objetos (POO)
 
-* **Ferramentas:** PhpStorm, VS Code, Visual Studio, NPM, Maven, Docker, Postman, Git, Docker
+* **Ferramentas:** Composer, Maven, Docker, Postman, Git, Docker
